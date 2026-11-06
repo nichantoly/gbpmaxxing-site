@@ -30,10 +30,10 @@ Header always set Permissions-Policy "camera=(), microphone=(), geolocation=()"
 
 # The PDFs point search engines at the page that describes them
 <FilesMatch "^GBP-MAXXING-v1\.4\.pdf$">
-Header set Link "<https://gbpmaxxing.com/>; rel=\"canonical\""
+Header set Link "<https://gbpmaxxing.com/>; rel=canonical"
 </FilesMatch>
 <FilesMatch "^GBP-MAXXING-v1\.4-Appraisers-Edition\.pdf$">
-Header set Link "<https://gbpmaxxing.com/appraisers/>; rel=\"canonical\""
+Header set Link "<https://gbpmaxxing.com/appraisers/>; rel=canonical"
 </FilesMatch>
 
 <FilesMatch "\.(css|js|woff2)$">
