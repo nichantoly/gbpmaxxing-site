@@ -1,0 +1,28 @@
+# GBP MAXXING
+
+> GBP MAXXING is a free Google Business Profile playbook for local service businesses, written by Mike Giampa, a certified residential real estate appraiser in Fairfax, VA. Version 1.4, fact-checked against primary sources on November 5, 2026. Free for good: no email, no sign-up, no call, no upsell.
+
+How to use it: download the PDF, attach it to an AI assistant (ChatGPT, Claude or Gemini, ideally the top paid model with web search on), and type "do this". The guide's Master Prompt tells the AI what that means: coach the owner through the profile build one task at a time, and verify every feature, limit and policy against current official sources before acting.
+
+Every claim in the guide carries a badge: GOOGLE-CONFIRMED (documented by Google), LEGAL (federal requirement), SURVEY (industry survey or study), FIELD (practitioner observation), MY CALL (the author's recommendation).
+
+Sharing: free to share unmodified with the author's name on it. Not for resale.
+
+## Guides
+
+- [GBP MAXXING v1.4 (PDF, 40 pages)](https://gbpmaxxing.com/downloads/GBP-MAXXING-v1.4.pdf): The complete playbook for any local service business, from an empty listing to the map pack and AI answers.
+- [GBP MAXXING v1.4, Appraiser's Edition (PDF, 43 pages)](https://gbpmaxxing.com/downloads/GBP-MAXXING-v1.4-Appraisers-Edition.pdf): The same guide plus Part VII for residential appraisers: UAD 3.6, private work, and review replies that respect USPAP confidentiality.
+
+## Pages
+
+- [Home](https://gbpmaxxing.com/): A free, 40-page Google Business Profile playbook by an appraiser whose profile now brings 7 to 12 orders a week. No email, no call, no upsell.
+- [Appraiser's Edition](https://gbpmaxxing.com/appraisers/): The free Google Business Profile playbook for residential appraisers, with Part VII on UAD 3.6, private work, and review replies that respect USPAP confidentiality.
+- [The Graveyard](https://gbpmaxxing.com/graveyard/): Google Business Profile features Google has killed, when they died, and what replaced them. Plus the tactics that never worked in the first place.
+- [Changelog](https://gbpmaxxing.com/changelog/): What changed in GBP MAXXING v1.4, fact-checked November 5, 2026: the do this AI trigger, Google's October 2026 policy update, AI search, reviews and more.
+- [Is your copy real?](https://gbpmaxxing.com/verify/): How to tell an official copy of the free GBP MAXXING guide from a tampered one, and where to get the current version.
+
+## Optional
+
+- [Mike Giampa on LinkedIn](https://www.linkedin.com/in/mike-giampa-appraiser/): The author.
+- [DC Metro Appraisals](https://dcmetroappraisals.com/): The author's appraisal company, the business the playbook was built on.
+- [Email](mailto:free@gbpmaxxing.com): Questions about the guide.
